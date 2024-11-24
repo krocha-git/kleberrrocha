@@ -10,7 +10,7 @@
 <div>
   <br>
   <a href="https://github.com/krocha-git"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krocha-git&layout=pie">
+  <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krocha-git&layout=pie">
   <br>
 </div>
 
