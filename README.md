@@ -5,8 +5,13 @@
 - 🌱 Cursando, através da plataforma Alura, cursos de desenvolvimento Front-End (HTML, JavaScript, CSS) e desenvolvimento usando as linguagens Java e Python
 - 😄 Pronouns: (Ele/Dele)
 
-
-
+<div>
+  <br>
+  <a href="https://github.com/krocha-git"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krocha-git&layout=pie">
+  <br>
+</div>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me ...
 <div> 
