@@ -17,7 +17,7 @@
 ##
 
 <div style="display: inline_block"><br>
-  <h1>Linguagens que desenvolvo:</h1>
+  <h3 color="#0000ff">Linguagens que desenvolvo:</h3>
   <img align="center" alt="kpr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kpr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kpr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
